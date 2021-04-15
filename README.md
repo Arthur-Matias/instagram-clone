@@ -4,7 +4,7 @@
 
 Recriando Landing page do instagram.
 
-![print](https://github.com/Arthur-Matias/instagram-clone/blob/master/assets/gitImgs/55sote.gif?raw=true)
+![print](https://raw.githubusercontent.com/Arthur-Matias/instagram-clone/main/assets/gitImgs/55sote.gif)
 
 ## How to run
 
